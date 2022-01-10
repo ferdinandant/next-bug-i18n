@@ -1,8 +1,8 @@
 This is a reproducible example for the following:
 https://github.com/vercel/next.js/issues/20761
 
-Next version: 12.0.7
-Node version: 16.10.0
+- Next version: 12.0.7
+- Node version: 16.10.0
 
 ## How to run
 
